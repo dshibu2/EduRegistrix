@@ -8,7 +8,7 @@ A sleek, Java-based student registration management system developed using SQL a
 * User-Friendly Interface: Developed using NetBeans IDE, the application boasts a clear and navigable GUI.
 
 ## Quick Start
-* Repository: Clone the project using git clone https://github.com/yourusername/EduRegistrix.git.
+* Repository: Clone the project using git clone https://github.com/dshibu2/EduRegistrix.git.
 * Requirements: Java and MySQL setup on your machine.
 * Launch: Open the project in NetBeans IDE and run it.
 
